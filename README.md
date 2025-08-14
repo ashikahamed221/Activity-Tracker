@@ -1,9 +1,9 @@
-#⏳Time Tracker App
+## ⏳Time Tracker App
 
 A simple and interactive Time Tracker application built with React + Vite, TypeScript, TailwindCSS, and Chart.js.
 This app allows users to track activities (e.g., Sleep, Work, Exercise) and visualize their time allocation through a dynamic Pie Chart.
 
-##🚀 Features
+## 🚀 Features
 
 Add Activities – Enter an activity name (e.g., Sleep) and the hours spent.
 
@@ -15,7 +15,7 @@ Fast & Type-safe – Built with React, Vite, and TypeScript.
 
 Clear Data View – Easy to understand time distribution.
 
-##🛠 Tech Stack
+## 🛠 Tech Stack
 
 React + Vite – Fast development and build setup
 
@@ -25,12 +25,12 @@ TailwindCSS – Modern, responsive UI styling
 
 Chart.js – Interactive pie chart visualization
 
-##📸 Screenshots
+## 📸 Screenshots
 
-<img src="Screenshot 2025-08-03 174941.png" alt="Note Nest App Screenshot" width="700">
+<img src="C:\Users\ashik\OneDrive\Pictures\Screenshots\Screenshot 2025-08-03 174941.png" width="700">
 </p>
 
-##📦 Installation & Setup
+## 📦 Installation & Setup
 
 1. **Clone the repository**
 
@@ -53,7 +53,7 @@ npm run dev
 npm run build
 
 
-##📊 How It Works
+## 📊 How It Works
 
 User enters an activity name and time spent.
 
