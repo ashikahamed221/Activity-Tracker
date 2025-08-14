@@ -1,4 +1,4 @@
-##⏳ Time Tracker App
+#⏳Time Tracker App
 
 A simple and interactive Time Tracker application built with React + Vite, TypeScript, TailwindCSS, and Chart.js.
 This app allows users to track activities (e.g., Sleep, Work, Exercise) and visualize their time allocation through a dynamic Pie Chart.
@@ -27,7 +27,7 @@ Chart.js – Interactive pie chart visualization
 
 ##📸 Screenshots
 
-![Time Tracker Screenshot](./Screenshot 2025-08-03 174941.png)
+![Time Tracker Screenshot](Screenshot 2025-08-03 174941.png)
 
 ##📦 Installation & Setup
 
@@ -37,17 +37,17 @@ git clone https://github.com/your-username/time-tracker-app.git
 cd time-tracker-app
 
 
-**Install dependencies**
+2. **Install dependencies**
 
 npm install
 
 
-**Start the development server**
+3. **Start the development server**
 
 npm run dev
 
 
-**Build for production**
+4. **Build for production**
 
 npm run build
 
