@@ -27,7 +27,8 @@ Chart.js – Interactive pie chart visualization
 
 ##📸 Screenshots
 
-![Time Tracker Screenshot]("C:\Users\ashik\OneDrive\Pictures\Screenshots.png")
+<img src="Screenshot 2025-08-03 174941.png" alt="Note Nest App Screenshot" width="700">
+</p>
 
 ##📦 Installation & Setup
 
