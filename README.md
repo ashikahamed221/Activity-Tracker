@@ -26,9 +26,8 @@ TailwindCSS – Modern, responsive UI styling
 Chart.js – Interactive pie chart visualization
 
 ## 📸 Screenshots
+<img width="977" height="864" alt="Screenshot 2025-08-03 174941" src="https://github.com/user-attachments/assets/6ec71b99-bafd-4a60-aa51-7b229f23f9b0"/>
 
-<img src="C:\Users\ashik\OneDrive\Pictures\Screenshots\Screenshot 2025-08-03 174941.png" width="700">
-</p>
 
 ## 📦 Installation & Setup
 
