@@ -27,7 +27,7 @@ Chart.js – Interactive pie chart visualization
 
 ##📸 Screenshots
 
-![Time Tracker Screenshot]("./Screenshot 2025-08-03 174941.png")
+![Time Tracker Screenshot]("C:\Users\ashik\OneDrive\Pictures\Screenshots.png")
 
 ##📦 Installation & Setup
 
