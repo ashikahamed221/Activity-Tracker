@@ -34,23 +34,24 @@ Chart.js – Interactive pie chart visualization
 
 1. **Clone the repository**
 
-git clone https://github.com/your-username/time-tracker-app.git
-cd time-tracker-app
+       git clone https://github.com/your-username/time-tracker-app.git
+   
+       cd time-tracker-app
 
 
-2. **Install dependencies**
+3. **Install dependencies**
 
-npm install
+       npm install
 
 
 3. **Start the development server**
 
-npm run dev
+       npm run dev
 
 
 4. **Build for production**
 
-npm run build
+       npm run build
 
 
 ## 📊 How It Works
